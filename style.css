@@ -1,0 +1,10 @@
+main{
+    display :grid;
+    flex-direction: row;
+    align-items: center;
+    align-content: center;
+    min-height: 100vh;
+    table-layout: auto;
+    columns: auto;
+    place-content: center;
+}
